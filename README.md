@@ -1,0 +1,2 @@
+# SpringMutipleProperty
+Simple Multiple Property
